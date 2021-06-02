@@ -26,7 +26,7 @@ louis==3.5.0
 lxml==4.2.1
 macaroonbakery==1.1.3
 Mako==1.0.7
-markdown2==2.3.5
+markdown2==2.4.0
 MarkupSafe==1.0
 numpy==1.14.5
 oauth==1.0.1
